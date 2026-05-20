@@ -1,7 +1,7 @@
 <!-- AI Email Summarizer - Professional README -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI-Email-Summarizer-purple?style=for-the-badge&logo=ai&logoColor=white" alt="AI Email Summarizer" />
+  <!-- <img src="https://img.shields.io/badge/AI-Email-Summarizer-purple?style=for-the-badge&logo=ai&logoColor=white" alt="AI Email Summarizer" /> -->
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
   <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-Next.js-black?style=for-the-badge&logo=react&logoColor=white" alt="React" />
