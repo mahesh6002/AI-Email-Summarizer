@@ -1,0 +1,59 @@
+From: Sarah Chen <sarah.chen@company.com>
+To: John Miller <john.miller@company.com>
+Cc: Project Team <project-team@company.com>
+Subject: Q2 Product Launch - Urgent Action Required
+Date: March 5, 2024 09:15 AM
+
+Hi Team,
+
+I hope this email finds you well. I wanted to follow up on our discussion from yesterday's meeting regarding the Q2 product launch. As discussed, we need to finalize all deliverables by end of this month to meet our April 15th launch date.
+
+John, I've attached the updated marketing copy for your review. Please provide feedback by this Friday, March 8th, so we can proceed with the design team. The copy is crucial for the landing page development.
+
+Sarah
+
+---
+From: John Miller <john.miller@company.com>
+To: Sarah Chen <sarah.chen@company.com>
+Cc: Project Team <project-team@company.com>
+Subject: RE: Q2 Product Launch - Urgent Action Required
+Date: March 5, 2024 11:30 AM
+
+Sarah,
+
+Thanks for sending this over. I reviewed the marketing copy and have a few comments:
+
+1. The value proposition in paragraph 2 needs stronger wording
+2. The CTA button text should be more action-oriented
+
+I'll send my detailed feedback by Thursday. Can we schedule a quick call to discuss before Friday?
+
+John
+
+---
+From: Sarah Chen <sarah.chen@company.com>
+To: John Miller <john.miller@company.com>
+Cc: Project Team <project-team@company.com>
+Subject: RE: Q2 Product Launch - Urgent Action Required
+Date: March 5, 2024 02:45 PM
+
+John,
+
+A call would be great. Let's do a quick sync at 3pm tomorrow. I've also looped in the design team - they need the final copy by Monday at the latest to hit our deadline.
+
+Sarah
+
+---
+From: Mike Rodriguez <mike.rodriguez@company.com>
+To: Sarah Chen <sarah.chen@company.com>
+Cc: John Miller <john.miller@company.com>, Project Team <project-team@company.com>
+Subject: RE: Q2 Product Launch - Urgent Action Required
+Date: March 6, 2024 08:00 AM
+
+Hi Sarah,
+
+Just wanted to flag that the engineering team needs the final feature list by March 12th for the QA sprint. We're currently blocked on testing until we have the complete specifications.
+
+Also, can someone confirm if we're still on track for the April 15th launch? The timeline is very tight.
+
+Mike

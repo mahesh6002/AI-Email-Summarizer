@@ -1,0 +1,1 @@
+"""AI Email Summarizer Application."""
